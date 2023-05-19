@@ -1,0 +1,30 @@
+.border-bottom {
+    border-bottom: 1px solid #7c60eb!important;
+}
+.text-600 {
+    color: #8370a1 !important;
+}
+
+
+.btn-dark:hover {
+    color: #FFFEFE;
+    background-color: #1c1c1c;
+    border-color: #1a1a1a;
+}
+.text-primary,
+.text-danger {
+    color: #3b0dc9 !important;
+}
+.btn-dark {
+    color: #FFFEFE;
+    background-color: #1d1889;
+    border-color: #1d1889;
+}
+.btn-dark:hover {
+    color: #000000;
+    background-color: #1d18898c;
+    border-color: #1d18898c;
+}
+.navbar {
+    background-color:rgb(126 112 221 / 33%) !important;
+}
